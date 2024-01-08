@@ -6,9 +6,9 @@
 | 312210266 | Muhamad Raehan | TI. 22. A2  |
 
 ## Link Website
-- Demo Web [DEMO WEB](https://iuranrtkel5.000webhostapp.com/)
-- Laporan PDF [PDF]()
-- Youtube [YOUTUBE]()
+- Demo Web [KLIK DISINI](https://iuranrtkel5.000webhostapp.com/)
+- Laporan PDF [KLIK DISINI]()
+- Youtube [KLIK DISINI]()
 
 
 ## Tampilan web
