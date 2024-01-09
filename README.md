@@ -15,7 +15,7 @@
 - Tampilan Warga
   
 ![uas1](https://github.com/mullf/ProjectUAS_Web_Kel5/assets/115521049/96fd2f8f-10ff-4620-9752-4b67baf27da5)
-- Tampilan data iuaran
+- Tampilan Data Iuaran
   
 ![uas2](https://github.com/mullf/ProjectUAS_Web_Kel5/assets/115521049/37886156-3d4d-4354-b374-8da71916ee00)
 - Tampilan laporan
