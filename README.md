@@ -12,12 +12,18 @@
 
 
 ## Tampilan web
+- Tampilan Dashboard
+
+![uas6](https://github.com/mullf/ProjectUAS_Web_Kel5/assets/115521049/f823bf8c-fbca-42f7-9d71-285c1bd95e06)
+
 - Tampilan Warga
   
 ![uas1](https://github.com/mullf/ProjectUAS_Web_Kel5/assets/115521049/96fd2f8f-10ff-4620-9752-4b67baf27da5)
+
 - Tampilan Data Iuaran
   
 ![uas2](https://github.com/mullf/ProjectUAS_Web_Kel5/assets/115521049/37886156-3d4d-4354-b374-8da71916ee00)
+
 - Tampilan laporan
   
 ![uas3](https://github.com/mullf/ProjectUAS_Web_Kel5/assets/115521049/3042d09e-fe53-4c10-b17f-b22caca853bc)
