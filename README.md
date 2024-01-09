@@ -12,7 +12,7 @@
 
 
 ## Tampilan web
-- Tampilan warga
+- Tampilan Warga
   
 ![uas1](https://github.com/mullf/ProjectUAS_Web_Kel5/assets/115521049/96fd2f8f-10ff-4620-9752-4b67baf27da5)
 - Tampilan data iuaran
