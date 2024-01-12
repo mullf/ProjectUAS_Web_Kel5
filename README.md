@@ -8,7 +8,7 @@
 ## Link :
 - Demo Web [KLIK DISINI](https://iuranrtkel5.000webhostapp.com/)
 - Laporan PDF [KLIK DISINI](https://drive.google.com/file/d/1J8mnWSWT-VN-r-lFO43JGpb96HUdX1AT/view?usp=drive_link)
-- Youtube [KLIK DISINI]()
+- Youtube [KLIK DISINI](https://youtu.be/ruO1zNMC82Y?si=CwXvGqYq4J5VW-0Y)
 
 
 ## Tampilan web
